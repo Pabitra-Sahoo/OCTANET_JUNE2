@@ -20,6 +20,7 @@ open
 index.html
 
 Demo
-A walkthrough video demonstrating the features and functionality of the to-do list is available in the repository’s video folder.
+A walkthrough video demonstrating the features and functionality of the to-do list is available in my Linkedin handle
 
-![Screenshot 2024-06-13 080049](https://github.com/Pabitra-Sahoo/OCTANET_JUNE2/assets/135823202/170e3bbc-4fbb-4250-8461-5e244931b71b)
+![Screenshot 2024-06-17 180229](https://github.com/Pabitra-Sahoo/OCTANET_JUNE2/assets/135823202/73d7a95b-e5a9-436b-a42e-10d9dd894a6e)
+
