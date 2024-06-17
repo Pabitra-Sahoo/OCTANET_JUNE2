@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>To-Do List App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <h1>MY TO-DO LIST</h1>
+      <div id="filter-buttons">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="completed">Completed</button>
+        <button class="filter-btn" data-filter="pending">Pending</button>
+        <button class="filter-btn" data-filter="starred">Starred</button>
+      </div>
+    </header>
+    <main>
+      <section id="todo-list">
+        <h2>Add a Task</h2>
+        <input type="text" id="new-task" placeholder="Enter your task">
+        <button id="add-task">Add</button>
+        <ul id="tasks"></ul>
+      </section>
+    </main>
+  </div>
+  <footer>
+    <p>&copy; Created and designed by Pabitra</p>
+  </footer>
+  <script src="ds.js"></script>
+</body>
+
+</html>
